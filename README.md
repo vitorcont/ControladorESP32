@@ -1,6 +1,8 @@
 # ControladorESP32
 Automação feita com conjunto de sensores e com o microcontrolador ESP32 aliado a Biblioteca e Servidor Blynk para integração com dispositivos móveis e de controle por voz (Alexa, Google Home) via IFTT
-Sensores:
+
+
+
 Dispositivos I/O:
 - DHT11
 - Buzzer
