@@ -1,5 +1,5 @@
 # ControladorESP32
-Código para ESP32 para pequena automação com IDE Arduino
+Automação feita com conjunto de sensores e com o microcontrolador ESP32 aliado a Biblioteca e Servidor Blynk para integração com dispositivos móveis e de controle por voz (Alexa, Google Home) via IFTT
 Sensores:
 Dispositivos I/O:
 - DHT11
@@ -10,4 +10,4 @@ Dispositivos I/O:
 
 
 Conectado a Biblioteca BLYNK
-Conectado a Biblioteca OTA
+com atualização de código OTA
