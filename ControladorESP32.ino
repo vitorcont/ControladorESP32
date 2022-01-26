@@ -11,11 +11,11 @@
 #include <WiFiUdp.h> //lib necessária para comunicação network
 
 char auth[] = "P_dZlqXeRR2CzMmtcBhzmdx2uqYO6_cJ";
-char ssid[] = "Conti 2.4GHz";
-char pass[] = "Wolff2015";
+char ssid[] = "***";
+char pass[] = "***";
 
-const char* ssid2 = "Conti 2.4GHz"; //nome da rede
-const char* password2 = "Wolff2015"; //senha da rede
+const char* ssid2 = "***"; //nome da rede
+const char* password2 = "***"; //senha da rede
 unsigned long myTime;
 
 int BUZZER = 25; //D1
